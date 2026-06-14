@@ -869,3 +869,6 @@ Method 4: Manual loop (for custom merge logic, e.g., summing values)python"""
 #     return (a * b) // gcd(a, b)
 
 # print(lcm(12, 18))  # 36
+
+
+# sundar
