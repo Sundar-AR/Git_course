@@ -1,0 +1,6 @@
+A definition of data?
+Types of data (structured, unstructured, etc.)?
+Data in computing/databases?
+Mobile/internet data usage?
+A specific dataset or statistics?
+Help analyzing data you have?
